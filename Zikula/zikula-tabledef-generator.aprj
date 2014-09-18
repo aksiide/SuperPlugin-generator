@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AksiIDE>
+  <project>
+    <name>php4plugin - Zikula TableDef Generator</name>
+    <module>ZikulaTableDef</module>
+    <moduleid>ZikulaTableDef</moduleid>
+    <framework>
+      <name/>
+    </framework>
+    <site>
+      <RunAs>0</RunAs>
+      <url>http://localhost/</url>
+    </site>
+    <database>
+      <protocol>1</protocol>
+      <host>localhost</host>
+      <port/>
+      <username>root</username>
+      <password>root</password>
+      <databasename>mysql</databasename>
+    </database>
+    <js/>
+    <git/>
+  </project>
+</AksiIDE>

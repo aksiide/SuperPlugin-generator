@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AksiIDE>
+  <project>
+    <name>Panada-%app_name%</name>
+    <module>%app_name%</module>
+    <moduleid>%app_shortname%</moduleid>
+    <lang>php</lang>
+    <framework>
+      <name>panada</name>
+    </framework>
+    <site>
+      <RunAs>0</RunAs>
+      <url>http://localhost/%app_shortname%</url>
+    </site>
+    <database>
+      <protocol>1</protocol>
+      <host>%db_host%</host>
+      <port/>
+      <username>%db_username%</username>
+      <password>%db_password%</password>
+      <databasename>%db_name%</databasename>
+    </database>
+    <js/>
+    <git/>
+  </project>
+</AksiIDE>

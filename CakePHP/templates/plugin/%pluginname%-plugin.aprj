@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AksiIDE>
+  <project>
+    <name>CakePHP-%pluginname% Plugin</name>
+    <module>%pluginname%</module>
+    <moduleid>%pluginshortname%</moduleid>
+    <lang>php</lang>
+    <framework>
+      <name>cakephp</name>
+    </framework>
+    <site>
+      <RunAs>0</RunAs>
+      <url>http://localhost/%pluginshortname%</url>
+    </site>
+    <database/>
+    <js/>
+    <git/>
+  </project>
+</AksiIDE>

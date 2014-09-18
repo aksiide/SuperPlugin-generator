@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AksiIDE>
+  <project>
+    <name>php4plugin - HelloWord for AksiIDE PHP Plugin</name>
+    <module>HelloWord</module>
+    <moduleid>HelloWord</moduleid>
+    <framework>
+      <name/>
+    </framework>
+    <site>
+      <RunAs>0</RunAs>
+      <url>http://localhost/</url>
+    </site>
+    <database/>
+    <js/>
+    <git/>
+  </project>
+</AksiIDE>
