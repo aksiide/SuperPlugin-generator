@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AksiIDE>
+  <project>
+    <name>Zikula-%module_name% Module</name>
+    <module>%module_name%</module>
+    <moduleid>%module_id%</moduleid>
+    <lang>php</lang>
+    <framework>
+      <name>zikula</name>
+    </framework>
+    <site>
+      <RunAs>0</RunAs>
+      <url>http://localhost/%module_id%</url>
+    </site>
+    <database/>
+    <js/>
+    <git/>
+  </project>
+</AksiIDE>
